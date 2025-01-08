@@ -10,3 +10,5 @@ You play as a traveler who stumbles upon a strange, secluded clearing. A voice c
 - A branching narrative with multiple endings shaped by your decisions.
 - An eerie atmosphere and visuals designed to keep you on edge.
 - A cryptic journey filled with secrets that challenge your sense of morality and survival.
+
+To play the game, click Project Hunter on Releases, download the helpme.zip file and run index.html.
