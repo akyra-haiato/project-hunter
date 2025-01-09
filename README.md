@@ -12,3 +12,5 @@ You play as a traveler who stumbles upon a strange, secluded clearing. A voice c
 - A cryptic journey filled with secrets that challenge your sense of morality and survival.
 
 To play the game, click Project Hunter on Releases, download the helpme.zip file and run index.html.
+
+### You can also play this game on itch.io by visiting: https://akyra-haiato.itch.io/project-hunter
